@@ -1,0 +1,14 @@
+{
+  "version": "0.1.7",
+  "released": "2026-10-08",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.7.exe",
+  "urls_du_phong": [
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.7/AutoBOSS_v0.1.7.exe"
+  ],
+  "sha256": "ce10e39354cd9b112033684df62e23cb74dfe994d37c7bd211c652d75d20d50f",
+  "size": 46219264,
+  "notes": [
+    "Combo: cả hai acc luôn mua cho đủ số Thổ địa phù đã đặt ở thẻ Tiếp tế mỗi lần đứng trong thành, kể cả khi ô \"Mua đủ Thổ địa phù\" đang tắt; lúc bấm Chạy mà đang ở thành thì mua trước khi ra bãi. Mua là bước cuối, sau khi bán đồ rác, cất rương, mua thuốc. Lý do: thử thật 07/10 acc phụ tắt ô ấy nên hết phù, về thành phải dùng Thần Hành Phù, lúc quay lại không có \"Quay lại địa điểm cũ\" nên bay tới đầu map rồi chạy bộ 945 ô (hai phút) về điểm đánh; có phù thì về Phượng Tường và Thần Hành Phù đưa thẳng về chỗ cũ như acc chính đã làm được 5/5 lần."
+  ],
+  "mandatory": false
+}
