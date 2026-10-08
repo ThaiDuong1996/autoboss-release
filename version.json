@@ -1,16 +1,15 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "released": "2026-10-08",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.9.exe",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.10.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.9/AutoBOSS_v0.1.9.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.10/AutoBOSS_v0.1.10.exe"
   ],
-  "sha256": "5d9675df0c6893d71514d7c589e5a0b7a6d431165057628c961d29224cde1d36",
-  "size": 46221824,
+  "sha256": "85d00ae40ba67b8f7f1529fd90b76e731922d90f7a861787c07185d6d300d5e5",
+  "size": 46226432,
   "notes": [
-    "Combo: acc phụ tới điểm mới là đánh ngay. Trước đây sau khi đi sang điểm khác, bộ đánh còn \"ngủ\" thêm 15 giây (lệnh tạm nghỉ đánh lúc đi đường không được xoá), nhân vật đứng giữa quái không ra đòn, rồi app tưởng kẹt mà bỏ sang điểm kế dù còn quái.",
-    "Combo: hết quái quanh điểm là sang điểm kế nhanh hơn: khoảng 3–6 giây sau con cuối gục (trước 8–12 giây). Bãi có quái mọc lại nhanh thì vẫn ở lại đánh, đó là đúng ý.",
-    "Combo: bỏ ô \"Mỗi điểm đánh tối đa (phút)\". Acc phụ chỉ rời điểm khi hết quái đánh được, khi bộ đánh của app không còn mục tiêu nào quanh điểm, hoặc khi kẹt; không còn đứng chờ cho đủ số phút. Thử thật đêm 07/10 (bản 0.1.7) cho thấy luật \"hết quái\" cũ hầu như không bắt được lúc quái quanh điểm đã gục, bot toàn đứng chờ hết phút mới đi; nay lấy thêm tín hiệu \"không tìm được con nào để đánh\" của bộ đánh."
+    "Combo: không còn chạy theo báo quái xanh cũ. Trước đây đổi bãi xong, acc chính vẫn Thần Hành Phù về map cũ đi ra chỗ acc phụ báo từ trước (báo giữ tới 30 phút, acc phụ dừng hay đổi điểm không huỷ, và báo cũ luôn được xử trước báo mới). Nay: acc phụ tự huỷ báo của mình khi dừng, đổi điểm, thoát thân về thành hoặc chờ acc chính quá giờ; acc chính bỏ báo ở map khác với điểm đánh hiện tại của acc phụ ấy (bãi đã đổi) và bỏ báo cũ hơn 2 phút lúc bắt đầu chạy; báo chỉ giữ 5 phút.",
+    "Combo: thẻ Combo thêm nút \"Huỷ mọi báo đang chờ\" để dọn tay; bảng sự kiện ghi rõ lý do huỷ và lý do bỏ."
   ],
   "mandatory": false
 }
