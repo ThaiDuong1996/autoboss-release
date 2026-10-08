@@ -1,14 +1,16 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.9",
   "released": "2026-10-08",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.7.exe",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.9.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.7/AutoBOSS_v0.1.7.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.9/AutoBOSS_v0.1.9.exe"
   ],
-  "sha256": "ce10e39354cd9b112033684df62e23cb74dfe994d37c7bd211c652d75d20d50f",
-  "size": 46219264,
+  "sha256": "5d9675df0c6893d71514d7c589e5a0b7a6d431165057628c961d29224cde1d36",
+  "size": 46221824,
   "notes": [
-    "Combo: cả hai acc luôn mua cho đủ số Thổ địa phù đã đặt ở thẻ Tiếp tế mỗi lần đứng trong thành, kể cả khi ô \"Mua đủ Thổ địa phù\" đang tắt; lúc bấm Chạy mà đang ở thành thì mua trước khi ra bãi. Mua là bước cuối, sau khi bán đồ rác, cất rương, mua thuốc. Lý do: thử thật 07/10 acc phụ tắt ô ấy nên hết phù, về thành phải dùng Thần Hành Phù, lúc quay lại không có \"Quay lại địa điểm cũ\" nên bay tới đầu map rồi chạy bộ 945 ô (hai phút) về điểm đánh; có phù thì về Phượng Tường và Thần Hành Phù đưa thẳng về chỗ cũ như acc chính đã làm được 5/5 lần."
+    "Combo: acc phụ tới điểm mới là đánh ngay. Trước đây sau khi đi sang điểm khác, bộ đánh còn \"ngủ\" thêm 15 giây (lệnh tạm nghỉ đánh lúc đi đường không được xoá), nhân vật đứng giữa quái không ra đòn, rồi app tưởng kẹt mà bỏ sang điểm kế dù còn quái.",
+    "Combo: hết quái quanh điểm là sang điểm kế nhanh hơn: khoảng 3–6 giây sau con cuối gục (trước 8–12 giây). Bãi có quái mọc lại nhanh thì vẫn ở lại đánh, đó là đúng ý.",
+    "Combo: bỏ ô \"Mỗi điểm đánh tối đa (phút)\". Acc phụ chỉ rời điểm khi hết quái đánh được, khi bộ đánh của app không còn mục tiêu nào quanh điểm, hoặc khi kẹt; không còn đứng chờ cho đủ số phút. Thử thật đêm 07/10 (bản 0.1.7) cho thấy luật \"hết quái\" cũ hầu như không bắt được lúc quái quanh điểm đã gục, bot toàn đứng chờ hết phút mới đi; nay lấy thêm tín hiệu \"không tìm được con nào để đánh\" của bộ đánh."
   ],
   "mandatory": false
 }
