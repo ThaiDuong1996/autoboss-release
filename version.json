@@ -1,14 +1,14 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "released": "2026-10-09",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.11.exe",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.12.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.11/AutoBOSS_v0.1.11.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.12/AutoBOSS_v0.1.12.exe"
   ],
-  "sha256": "bb232a99f0b2c37f391e4b1b096f22f7c9f087c8cbbc939b8064f188e823056c",
-  "size": 46229504,
+  "sha256": "7614f74cae0ad213164a911095fb8f3abb3f68eac2ebe6fd52a6805fb616e15a",
+  "size": 46231040,
   "notes": [
-    "Combo: acc phụ để kiểu nhặt 1, 2 hay 3 (không phải \"Nhặt theo thuộc tính\") nay về thành là bán hết trang bị nhặt được. Trước đây bảng thuộc tính của kiểu 4 vẫn được đem ra giữ đồ lúc bán, nên túi đầy về bán chỉ bán được 2–3 món rồi nghỉ 30 phút, túi cứ đầy mãi. Nhẫn, dây chuyền, ngọc bội, ngựa, mặt nạ, đồ hoàng kim, đồ khoá và đồ nhiệm vụ vẫn giữ như cũ."
+    "Bán đồ rác khi túi đầy: một chuyến bán hết đồ rác trong túi, không dừng ở 40 món như trước (thử 0.1.11: túi đầy về bán 40 món, còn sót 5 món ở hàng cuối). Bán xong nếu còn trang bị bị giữ lại thì ghi một dòng chi tiết đếm theo lý do giữ."
   ],
   "mandatory": false
 }
