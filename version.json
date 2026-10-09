@@ -1,15 +1,14 @@
 {
-  "version": "0.1.10",
-  "released": "2026-10-08",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.10.exe",
+  "version": "0.1.11",
+  "released": "2026-10-09",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.11.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.10/AutoBOSS_v0.1.10.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.11/AutoBOSS_v0.1.11.exe"
   ],
-  "sha256": "85d00ae40ba67b8f7f1529fd90b76e731922d90f7a861787c07185d6d300d5e5",
-  "size": 46226432,
+  "sha256": "bb232a99f0b2c37f391e4b1b096f22f7c9f087c8cbbc939b8064f188e823056c",
+  "size": 46229504,
   "notes": [
-    "Combo: không còn chạy theo báo quái xanh cũ. Trước đây đổi bãi xong, acc chính vẫn Thần Hành Phù về map cũ đi ra chỗ acc phụ báo từ trước (báo giữ tới 30 phút, acc phụ dừng hay đổi điểm không huỷ, và báo cũ luôn được xử trước báo mới). Nay: acc phụ tự huỷ báo của mình khi dừng, đổi điểm, thoát thân về thành hoặc chờ acc chính quá giờ; acc chính bỏ báo ở map khác với điểm đánh hiện tại của acc phụ ấy (bãi đã đổi) và bỏ báo cũ hơn 2 phút lúc bắt đầu chạy; báo chỉ giữ 5 phút.",
-    "Combo: thẻ Combo thêm nút \"Huỷ mọi báo đang chờ\" để dọn tay; bảng sự kiện ghi rõ lý do huỷ và lý do bỏ."
+    "Combo: acc phụ để kiểu nhặt 1, 2 hay 3 (không phải \"Nhặt theo thuộc tính\") nay về thành là bán hết trang bị nhặt được. Trước đây bảng thuộc tính của kiểu 4 vẫn được đem ra giữ đồ lúc bán, nên túi đầy về bán chỉ bán được 2–3 món rồi nghỉ 30 phút, túi cứ đầy mãi. Nhẫn, dây chuyền, ngọc bội, ngựa, mặt nạ, đồ hoàng kim, đồ khoá và đồ nhiệm vụ vẫn giữ như cũ."
   ],
   "mandatory": false
 }
