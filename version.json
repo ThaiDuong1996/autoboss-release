@@ -1,14 +1,20 @@
 {
-  "version": "0.1.12",
-  "released": "2026-10-09",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.12.exe",
+  "version": "0.1.14",
+  "released": "2026-10-11",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.14.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.12/AutoBOSS_v0.1.12.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.14/AutoBOSS_v0.1.14.exe"
   ],
-  "sha256": "7614f74cae0ad213164a911095fb8f3abb3f68eac2ebe6fd52a6805fb616e15a",
-  "size": 46231040,
+  "sha256": "c3ffa37468b3b14731f82d93c3f2dbde68c9a2a0d64f88b9a471e465af050524",
+  "size": 46263296,
   "notes": [
-    "Bán đồ rác khi túi đầy: một chuyến bán hết đồ rác trong túi, không dừng ở 40 món như trước (thử 0.1.11: túi đầy về bán 40 món, còn sót 5 món ở hàng cuối). Bán xong nếu còn trang bị bị giữ lại thì ghi một dòng chi tiết đếm theo lý do giữ."
+    "Săn quái xanh và acc chính Combo: bật \"không nhặt vật phẩm sự kiện\" thì hạ quái xanh xong không còn nhặt đồ sự kiện (trước đây vẫn nhặt, ví dụ Nụ Hoa Hồng Đỏ). Lúc nhặt sau khi hạ quái xanh cũng theo đúng kiểu nhặt, ô Nhặt vật phẩm và ô Nhặt tiền như lúc đánh quái thường; Thần bí đồ chí, Thần Bí Lộ Chí không nhặt như đã định.",
+    "Thẻ Săn quái xanh: dưới ô Thiên Sơn Bảo Lộ và Quế Hoa Tửu hiện số lọ đã dùng (ví dụ \"đã dùng 2/3 lọ trong 24 giờ, tự đặt lại lúc 14:05 11/10\") của LD đang chọn, kèm nút \"Đặt lại\" đưa bộ đếm về 0.",
+    "Bộ đếm lọ tự đặt lại sau 24 giờ tính từ lọ đầu tiên, thay cho xoá lúc 00:00 như trước.",
+    "Săn quái xanh: đường tuần đi cách xa gốc cây, tảng đá hơn (trước đây hay lướt sát rồi đâm vào), điểm tuần nằm sát vật cản được dời ra chỗ thoáng.",
+    "Săn quái xanh: vướng vật cản thì sau khoảng 2 giây tự lùi lại và đi đường vòng, không đứng 6 giây chờ quái bu rồi đánh như trước; chỉ đánh khi kẹt lại đúng chỗ đó mà có quái sát người. Chỗ đã kẹt được nhớ theo map để lần sau tuần tránh luôn.",
+    "Săn quái xanh: ô \"Áp sát rồi mới ra chiêu\" cài được tới 1200 (trước tối đa 400, gõ số lớn hơn thì ô đứng ở 99), bấm lên/xuống mỗi lần 1 ô.",
+    "Mọi ô số: bấm chuột vào ô là chọn sẵn cả số, gõ số mới là thay luôn."
   ],
   "mandatory": false
 }
