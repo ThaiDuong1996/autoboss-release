@@ -1,20 +1,26 @@
 {
-  "version": "0.1.16",
-  "released": "2026-10-12",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.16.exe",
+  "version": "0.1.27",
+  "released": "2026-10-17",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.27.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.16/AutoBOSS_v0.1.16.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.27/AutoBOSS_v0.1.27.exe"
   ],
-  "sha256": "717116406219937821e9e5d3045bc8216a44d3dca61dd14b697e9107b15af803",
-  "size": 46669824,
+  "sha256": "b85b1672a5157b23abde47054f90553d0c8018ad49553b966ec4db73bb7e03be",
+  "size": 46715392,
   "notes": [
-    "Combo, acc chính: đánh xong thì chạy về chỗ chờ rồi mới đăng xuất, để lần sau vào game ở giữa các bãi acc phụ, không phải chạy từ bãi này sang bãi kia. Chỗ chờ là điểm đầu tiên lưu cho LD acc chính ở thẻ Combo (đứng ở chỗ muốn chờ rồi bấm \"Lưu chỗ đang đứng\"). Chưa lưu thì đăng xuất tại chỗ như cũ. Đang chạy về mà có quái xanh mới thì đi đánh luôn.",
-    "Lên ngựa: app tự đi xa (ra bãi, về từ thành, đi map, acc chính tới quái xanh) là lên ngựa, bị rơi giữa đường thì tự lên lại. Acc phụ đổi giữa các điểm đánh thì theo ô \"Lên ngựa khi đi tuần\": bật thì cưỡi, tắt thì đi bộ.",
-    "Thiên Sơn Bảo Lộ, Quế Hoa Tửu: số lọ đã dùng tự về 0 lúc 00:00 mỗi ngày như trong game (bản 0.1.14 tính 24 giờ từ lọ đầu là sai). Thẻ Săn quái xanh ghi \"hôm nay đã dùng k/N lọ, tự đặt lại lúc 00:00\", nút \"Đặt lại\" vẫn còn.",
-    "Săn quái xanh: đường tuần đi giữa lối, tránh sát vách, gặp khe giữa hai vật thể (gốc cây, tảng đá) vẫn đi xuyên qua thay vì vòng xa.",
-    "Thẻ Kỹ năng: ô chọn chiêu có hình chiêu; buff, hỗ trợ, vòng sáng tự tung lại khi trên người hết, không còn các ô giãn cách buff, hỗ trợ khi máu dưới. Bỏ ô \"Nga My buff máu\".",
-    "Rớt mạng thì tự vào lại game: thử ngay, rồi 1 phút, 1 phút, tắt game mở lại, sau đó cứ 5 phút thử một lần, không bỏ cuộc.",
-    "Nhặt đồ: đứng giữa đống đồ thì nhặt hết một lượt; thêm Nơ Cột Bó Hoa, Hoa hồng vào danh sách đồ sự kiện không nhặt."
+    "Săn quái xanh, Combo (acc chính, acc phụ), Luyện cấp: mỗi lần về thành, dù vì chết, bị đánh phải dùng Thổ địa phù, hết thuốc hay túi đầy, đều bán đồ rác (khi bật Tự bán đồ) và gửi tiền vào rương theo mục Gửi tiền rồi mới quay lại bãi, bị đánh chết nhiều lần không mất tiền trong người.",
+    "Bán đồ rác: bỏ tích \"Giữ nhẫn / ngọc bội / dây chuyền\" thì nhẫn, ngọc bội, dây chuyền cũng được bán như trang bị khác (kiểu nhặt theo thuộc tính vẫn giữ món khớp chỉ số).",
+    "Acc chính và săn đơn chỉ đánh boss, hạ xong dừng đánh để nhặt, không đánh quái thường. Riêng lúc đang nhặt mà bị quái bu sát quanh mình (khoảng 2 ô) chặn thì đánh dọn mấy con đó rồi nhặt tiếp.",
+    "Nhặt đồ sau boss nhanh như auto game: bấm nhặt mọi món trong tầm 6 ô, món chưa vào túi thì cứ nửa giây bấm lại, món gần xong mới chạy đi món xa, chờ đồ rơi trễ ít nhất 3 giây. Nhặt hụt thì 5 giây sau thử lại, tới 6 lần.",
+    "Túi hết chỗ lúc nhặt thì chỉ nhặt tiền và thôi ngay. Acc chính: vứt, bán, cất xong quay lại đúng chỗ hạ boss nhặt nốt đồ còn dưới đất, lọc đồ rồi mới đăng xuất.",
+    "Acc chính vứt món không khớp bộ lọc một lượt thay vì từng món.",
+    "Combo, acc chính: đăng nhập xong chạy luôn tới boss, các bước cài đặt làm trong lúc chạy. Đánh và nhặt xong thì đăng xuất tại chỗ, không chạy về chỗ chờ nữa; bớt các bước thừa trước khi đăng xuất.",
+    "Bật Đánh nhanh ở thẻ Kỹ năng thì acc chính và săn đơn gọi đánh mỗi nhịp game, vẫn giữ hồi chiêu của game.",
+    "Tới boss: thấy boss là tiếp cận ngay, vào đủ bán kính và tầm chiêu thì dừng lại đánh, boss ra ngoài mới đuổi tiếp. Giữ ngựa khi tiếp cận, vào tầm mới xuống nếu cần, không còn lên xuống ngựa giành nhau.",
+    "Quế Hoa Tửu, Thiên Sơn Bảo Lộ, Tiên Thảo Lộ, Nến Hạnh Phúc: kiểm tra tác dụng và số lọ đã tiêu trước khi đếm, chưa rõ thì chờ, không dùng thêm hay đếm khống; quá 10 phút chưa xác nhận thì soát lại, không kẹt mãi.",
+    "Bấm Dừng thì acc chính và săn đơn trả lại cách đánh bình thường cho các chế độ khác.",
+    "Giảm thời gian chờ giữa các bước: nhận kết quả nhanh hơn, lên ngựa xong đi tiếp sớm, bỏ nghỉ thừa sau khi bấm đăng nhập.",
+    "Đi đường vòng vật cản liền mạch hơn, không đứng lại ở từng đoạn."
   ],
   "mandatory": false
 }
