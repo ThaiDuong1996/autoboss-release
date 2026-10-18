@@ -1,19 +1,14 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "released": "2026-10-18",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.29.exe",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.30.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.29/AutoBOSS_v0.1.29.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.30/AutoBOSS_v0.1.30.exe"
   ],
-  "sha256": "d6ab092296114fd28a17a0006826a15b894caf2aaab3100bdfe9e6185166bc59",
-  "size": 46719488,
+  "sha256": "e20276d686bc37b974dbd8ba39b855f4e72078694f34ba28f907a054286b517d",
+  "size": 46720000,
   "notes": [
-    "Bảng LD: đổi vai trò chỉ bằng chuột phải dòng LD rồi chọn Vai trò. Bấm chuột trái vào ô Vai trò không còn bật menu, nên lúc app chậm bấm nhầm không đổi vai trò nữa.",
-    "Tới bãi bằng Thần Hành Phù: đặt điểm hồi sinh xong đi luôn, không đứng chờ thêm khoảng 5 giây.",
-    "Đăng nhập: mỗi màn đăng nhập, chọn máy chủ, chọn nhân vật bấm sớm hơn chừng nửa giây.",
-    "Acc chính và săn đơn, nhặt đồ sau boss: bấm nhặt mà nhân vật đứng yên 3 giây thì tự chạy tới từng món để nhặt, không đứng chờ.",
-    "Kẹt lúc nhặt vì quái bu sát người (trong 1 ô): đánh con quái đó tới chết (tối đa 30 giây) rồi mới nhặt tiếp. Quái đứng xa hơn thì cứ nhặt, không đánh.",
-    "Hạn 45 giây nhặt đồ không tính thời gian dọn quái; cả lượt nhặt và dọn tối đa 150 giây."
+    "Đăng nhập lại (acc chính được báo boss, vào lại sau rớt mạng): bỏ bước hỏi game vô ích ở màn đăng nhập, bấm vào luôn, nhanh hơn khoảng 5–8 giây ở lần vào đầu tiên."
   ],
   "mandatory": false
 }
