@@ -1,14 +1,14 @@
 {
-  "version": "0.1.30",
-  "released": "2026-10-18",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.30.exe",
+  "version": "0.1.31",
+  "released": "2026-10-19",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.31.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.30/AutoBOSS_v0.1.30.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.31/AutoBOSS_v0.1.31.exe"
   ],
-  "sha256": "e20276d686bc37b974dbd8ba39b855f4e72078694f34ba28f907a054286b517d",
-  "size": 46720000,
+  "sha256": "a7aa8eee278c8c70fab004967c3491135221bb759a8537cbfe9c602a5bb6650a",
+  "size": 46725632,
   "notes": [
-    "Đăng nhập lại (acc chính được báo boss, vào lại sau rớt mạng): bỏ bước hỏi game vô ích ở màn đăng nhập, bấm vào luôn, nhanh hơn khoảng 5–8 giây ở lần vào đầu tiên."
+    "Thoát thân: được Nga My buff tăng máu tối đa không còn bị coi là máu thấp. Mốc dùng Thổ địa phù tính theo máu tối đa thật của nhân vật, nên đứng gần Nga My không còn phù về thành liên tục."
   ],
   "mandatory": false
 }
