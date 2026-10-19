@@ -1,14 +1,14 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "released": "2026-10-19",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.31.exe",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.32.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.31/AutoBOSS_v0.1.31.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.32/AutoBOSS_v0.1.32.exe"
   ],
-  "sha256": "a7aa8eee278c8c70fab004967c3491135221bb759a8537cbfe9c602a5bb6650a",
-  "size": 46725632,
+  "sha256": "d3dfec6223117ec84e537dc7edcc4ec8b07048158a580319995d669a7184a2c4",
+  "size": 46721536,
   "notes": [
-    "Thoát thân: được Nga My buff tăng máu tối đa không còn bị coi là máu thấp. Mốc dùng Thổ địa phù tính theo máu tối đa thật của nhân vật, nên đứng gần Nga My không còn phù về thành liên tục."
+    "Chạy chung máy ảo với autoDT: khi bot của app kia đang chạy trên cùng máy, cửa sổ AutoBOSS thôi đọc vị trí máy đó để không tranh lệnh với game, bot của app kia không còn bị chậm. Bot AutoBOSS cũng báo cho autoDT biết để autoDT nhường lại."
   ],
   "mandatory": false
 }
