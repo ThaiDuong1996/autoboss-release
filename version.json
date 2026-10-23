@@ -1,14 +1,21 @@
 {
-  "version": "0.1.32",
-  "released": "2026-10-19",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.32.exe",
+  "version": "0.1.34",
+  "released": "2026-10-23",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.34.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.32/AutoBOSS_v0.1.32.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.34/AutoBOSS_v0.1.34.exe"
   ],
-  "sha256": "d3dfec6223117ec84e537dc7edcc4ec8b07048158a580319995d669a7184a2c4",
-  "size": 46721536,
+  "sha256": "4ddb4048e699dc4b85c3a2b49f7df15428831949d4fec314bb693db84b469abe",
+  "size": 46732288,
   "notes": [
-    "Chạy chung máy ảo với autoDT: khi bot của app kia đang chạy trên cùng máy, cửa sổ AutoBOSS thôi đọc vị trí máy đó để không tranh lệnh với game, bot của app kia không còn bị chậm. Bot AutoBOSS cũng báo cho autoDT biết để autoDT nhường lại."
+    "Đổi cài đặt lúc bot đang chạy thì bot nhận ngay, không phải bấm Dừng rồi Chạy lại, ở cả Săn đơn, Acc chính và Acc phụ. Ví dụ acc chính đang đánh quái xanh mà tích Tiên Thảo Lộ thì dùng lọ luôn; acc phụ đổi chiêu, cách nhặt hay quái bỏ qua thì đánh tiếp theo cài đặt mới.",
+    "Bấm Lấy vị trí / Lưu chỗ đang đứng lúc bot đang chạy: lưu đúng chỗ nhân vật vừa đứng, không còn lưu nhầm tọa độ cũ. Chưa đọc được chỗ mới thì app báo để bấm lại sau vài giây.",
+    "Số quái xanh đã hạ, mất dấu và con hạ gần nhất của LD đang xem hiện ngay trên đầu cửa sổ, cạnh nút ⓘ, không phải mở thẻ Săn quái xanh. Acc chính đếm cả số lần mất dấu.",
+    "Acc chính: dùng Thổ địa phù mà chưa về được thành thì đánh tiếp ngay, không đứng chờ 10 giây để quái xanh chết mất mà không nhặt.",
+    "Acc chính: tới nơi không còn thấy quái xanh hoặc mất dấu thì vẫn soát nhặt đồ rơi quanh đó rồi mới đi.",
+    "Acc chính bị đưa về thành giữa trận: tiếp tế xong quay lại đúng chỗ đang đánh bằng Thần Hành Phù, không bay lên đầu map rồi chạy bộ.",
+    "Acc phụ: tích lọ nào ở thẻ Săn quái xanh (Tiên Thảo Lộ, Thiên Sơn Bảo Lộ, Quế Hoa Tửu) thì acc phụ tự dùng lọ đó khi đứng đánh quái thường.",
+    "Số quái xanh cạnh nút ⓘ luôn hiện với LD Săn đơn và Acc chính, kể cả khi chưa hạ con nào."
   ],
   "mandatory": false
 }
