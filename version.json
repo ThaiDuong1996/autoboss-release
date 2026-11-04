@@ -1,15 +1,15 @@
 {
-  "version": "0.1.35",
-  "released": "2026-10-29",
-  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.35.exe",
+  "version": "0.1.37",
+  "released": "2026-11-04",
+  "url": "https://raw.githubusercontent.com/ThaiDuong1996/autoboss-release/tai/AutoBOSS_v0.1.37.exe",
   "urls_du_phong": [
-    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.35/AutoBOSS_v0.1.35.exe"
+    "https://github.com/ThaiDuong1996/autoboss-release/releases/download/v0.1.37/AutoBOSS_v0.1.37.exe"
   ],
-  "sha256": "853ffb33086b2ca12f365612fd26806e7bb7091763b2a68b9c89d84c85ad03e0",
-  "size": 46728704,
+  "sha256": "6cac5cb1c7f24a4687271fb22184509975f4ccc61fcbf8d7d2cef718d25753bc",
+  "size": 46583296,
   "notes": [
-    "Game hiện hộp \"Đang lấy thông tin nhân vật…\" (mất kết nối tới máy chủ): bot chờ 1 phút rồi tự bấm Thoát và đăng nhập lại, không còn coi là bảo trì rồi đứng chờ 30 phút. Áp dụng cho Săn đơn, Acc chính và Acc phụ.",
-    "Combo cho người mới: acc phụ chưa lưu điểm đánh vẫn bấm Chạy được, bot lấy chỗ nhân vật đang đứng làm điểm đầu tiên (đứng ở bãi rồi bấm Chạy). Đang đứng trong thành thì bot báo ra bãi trước."
+    "Sửa lỗi máy mất điện xong mở lại app bị treo, báo \"chưa mở được cài đặt, đang tự thử lại\": app tự dựng lại tệp bị hỏng do mất điện, và từ nay ghi tệp chắc chắn xuống ổ đĩa để mất điện không làm hỏng nữa.",
+    "Acc phụ đang đứng đánh mà game mất kết nối (hộp \"Đang lấy thông tin nhân vật…\"): bot nhận ra, chờ 1 phút rồi tự bấm Thoát và đăng nhập lại. Bản 0.1.35 acc phụ đứng im mãi với hộp này mà app vẫn báo đang chạy."
   ],
   "mandatory": false
 }
